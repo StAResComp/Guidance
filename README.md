@@ -1,5 +1,7 @@
 # Guidance for RSEs at St Andrews
 
+[![Join the chat at https://gitter.im/sta-rse-guidance/Lobby](https://badges.gitter.im/sta-rse-guidance/Lobby.svg)](https://gitter.im/sta-rse-guidance/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 As of November 2016, the University of St Andrews does not make available any online guidance or other resources to support the development of software for research. The purpose of this repository is to draft such materials.
 
 Markdown files covering various topics are to be created in [/guidance](guidance). Resources, references and tools which might inform the guidance, which might be cited or to which we might direct users can be collected in [resources.md](resources.md).
