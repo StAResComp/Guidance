@@ -8,14 +8,6 @@ Resources to draw on and refer to when drafting guidance.
 - Good Enough Practices for Scientific Computing: http://swcarpentry.github.io/good-enough-practices-in-scientific-computing/ https://arxiv.org/abs/1609.00037
 - Benjamin Laken: How can I begin to improve my workflow?: http://benlaken.com/blog/?id=29
 
-## Version Control
-
-- GitHub: https://github.com
-
-## Testing
-
-- Travis CI: https://travis-ci.org
-
 ## Software Citation
 
 - Force11 Software Citation Working Group: https://github.com/force11/force11-scwg
@@ -33,6 +25,10 @@ Resources to draw on and refer to when drafting guidance.
   - Forks and Pull Requests in GitHub - http://www.chronicle.com/blogs/profhacker/forks-and-pull-requests-in-github/47753
   - File and Repository History in GitHub - http://www.chronicle.com/blogs/profhacker/file-and-repository-history-in-github/48047
   - Resources for Learning Git and GitHub - http://www.chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285
+
+## Testing
+
+- Travis CI: https://travis-ci.org
 
 ## Training
 
