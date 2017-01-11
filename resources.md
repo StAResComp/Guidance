@@ -55,3 +55,7 @@ Resources to draw on and refer to when drafting guidance.
 
 - Zenodo: https://zenodo.org/
 - Recomputation.org: http://recomputation.org
+
+## Code Review
+
+- Code Review in the Lab: https://mozillascience.github.io/codeReview/intro.html
