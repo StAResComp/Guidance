@@ -5,10 +5,10 @@ Access to research data is increasingly recognised as being crucial to reproduci
 Following good practice can make your software better, make your research more reproducible, help you to demonstrate impact, and save you effort.
 
 Good practice can include
-- Placing code under version control
-- Documenting software
-- Testing software
-- Sharing software
-- Licensing software appropriately
-- Providing information on how to cite software
-- Archiving software in a suitable repository
+- [Placing code under version control](version-control.md)
+- [Documenting software](documentation.md)
+- [Testing software](testing.md)
+- [Sharing software](sharing.md)
+- [Licensing software appropriately](licensing.md)
+- [Providing information on how to cite software](citation.md)
+- [Archiving software in a suitable repository](archiving.md)
