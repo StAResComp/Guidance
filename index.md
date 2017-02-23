@@ -12,3 +12,5 @@ Good practice can include
 - [Licensing software appropriately](licensing.md)
 - [Providing information on how to cite software](citation.md)
 - [Archiving software in a suitable repository](archiving.md)
+
+{% include footer.html %}
