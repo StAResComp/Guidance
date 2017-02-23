@@ -1,3 +1,3 @@
 theme: jekyll-theme-cayman
-title: St Andrews Software Development Guidance (draft)
-description: Draft Guidance for developers of software for research at the University of St Andrews
+site.github.title: St Andrews Software Development Guidance (draft)
+site.github.description: Draft Guidance for developers of software for research at the University of St Andrews
