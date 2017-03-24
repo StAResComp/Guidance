@@ -22,7 +22,7 @@ To learn more about version control in general and Git in particular, take a loo
 
 [GitHub](https://github.com) is a hosted Git repository service, widely used by open source projects. Anyone can register and create public repositories, with the ability to create private repositories available as a paid-for service. However, **academics can get [private repositories for free](https://education.github.com/discount_requests/new)**.
 
-GitHub is a U.S. company and data they collect will be [stored and processed in the United States](https://help.github.com/articles/github-privacy-statement/#githubs-global-privacy-practices). As such it is not appropriate for any data or code which is sensitive.
+GitHub is a U.S. company and data they collect will be [stored and processed in the United States](https://help.github.com/articles/github-privacy-statement/#githubs-global-privacy-practices). As such it is not appropriate for any data or code which is sensitive e.g. data which includes information which could be used to identify individuals or software developed with industrial partners which is commercially sensitive.
 
 Take a look at [GitHub's documentation](https://guides.github.com/activities/hello-world/) for help on getting up and running with the service.
 
