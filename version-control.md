@@ -16,7 +16,7 @@ If you make some changes to a set of files or *repository* under version control
 
 **It is strongly recommended that all source code be placed under version control.**
 
-To learn more about version control in general and Git in particular, watch out for any [Software Carpentry](https://software-carpentry.org) workshops being [run at the University](https://www.st-andrews.ac.uk/pdms/index.php). Also, take a look at *Pro Git* by Scott Chacon and Ben Straub and published by Apress, available to [read online](https://git-scm.com/book/en/v2).
+To learn more about version control in general and Git in particular, watch out for any [Software Carpentry](https://software-carpentry.org) workshops being [run at the University](https://www.st-andrews.ac.uk/pdms/index.php). You can take a look at the Software Carpentry material for the ["Version Control with Git"](https://swcarpentry.github.io/git-novice/) lesson in your own time. If you want more detail, take a look at *Pro Git* by Scott Chacon and Ben Straub and published by Apress, available to [read online](https://git-scm.com/book/en/v2).
 
 ## GitHub
 
