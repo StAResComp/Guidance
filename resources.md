@@ -17,8 +17,11 @@ Resources to draw on and refer to when drafting guidance.
 
 - Choose an open-source license: http://choosealicense.com/
 
-## GitHub
+## Version Control
 
+- GitHub: https://github.com/
+- GitHub Education: https://education.github.com
+- BitBucket: https://bitbucket.org
 - Konrad Lawson (School of History) on GitHub for ProfHacker/The Chronicle of Higher Education:
   - Getting Started With a GitHub Repository - http://www.chronicle.com/blogs/profhacker/getting-started-with-a-github-repository/47393
   - Direct Editing and Zen Mode in GitHub - http://www.chronicle.com/blogs/profhacker/direct-editing-and-zen-mode-in-github/47497
@@ -45,11 +48,14 @@ Resources to draw on and refer to when drafting guidance.
 
 - Philippe/Chue Hong/Hettrick: Preliminary analysis of a survey of UK Research Software Engineers: http://ceur-ws.org/Vol-1686/WSSSPE4_paper_19.pdf
 - Van den Eynden, Veerle; Knight, Gareth; Vlad, Anca; Radler, Barry; Tenopir, Carol; Leon, David; Manista, Frank; Whitworth, Jimmy; Corti, Louise (2016): Survey of Wellcome researchers and their attitudes to open research. figshare. https://dx.doi.org/10.6084/m9.figshare.4055448.v1
+- Brett, Alys, Croucher, Michael, Haines, Robert, Hettrick, Simon, Hetherington, James, Stillwell, Mark, & Wyatt, Claire. (2017). Research Software Engineers: State of the Nation Report 2017. Zenodo. https://doi.org/10.5281/zenodo.495360
+- Archibald/Leeming/South - Promoting Sustainable Software Practice: https://www.software.ac.uk/blog/2017-03-20-promoting-sustainable-software-practice
 
 ## Impact
 
 - Depsy: http://depsy.org
 - Libraries.io: https://libraries.io/
+- Chue Hong/Katz/Kluyver/Mawdsley/McSweeney/Palmer - Software Metrics—why and how?: https://www.software.ac.uk/blog/2017-05-09-software-metrics-why-and-how
 
 ## Archiving
 
@@ -59,3 +65,8 @@ Resources to draw on and refer to when drafting guidance.
 ## Code Review
 
 - Code Review in the Lab: https://mozillascience.github.io/codeReview/intro.html
+
+## Other resources
+- Azure Notebooks: https://notebooks.azure.com
+- Stack Overflow: https://stackoverflow.com
+- Read the Docs
