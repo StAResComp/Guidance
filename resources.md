@@ -15,6 +15,7 @@ Resources to draw on and refer to when drafting guidance.
 
 ## Software Licensing
 
+- Open Source Initiative: https://opensource.org/licenses/alphabetical
 - Choose an open-source license: http://choosealicense.com/
 
 ## Version Control
@@ -28,6 +29,8 @@ Resources to draw on and refer to when drafting guidance.
   - Forks and Pull Requests in GitHub - http://www.chronicle.com/blogs/profhacker/forks-and-pull-requests-in-github/47753
   - File and Repository History in GitHub - http://www.chronicle.com/blogs/profhacker/file-and-repository-history-in-github/48047
   - Resources for Learning Git and GitHub - http://www.chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285
+- Perez-Riverol Y, Gatto L, Wang R, Sachsenberg T, Uszkoreit J, et al. (2016) Ten Simple Rules for Taking Advantage of Git and GitHub. PLOS Computational Biology 12(7): e1004947. https://doi.org/10.1371/journal.pcbi.1004947
+- Blischak JD, Davenport ER, Wilson G (2016) A Quick Introduction to Version Control with Git and GitHub. PLOS Computational Biology 12(1): e1004668. https://doi.org/10.1371/journal.pcbi.1004668
 
 ## Testing
 
@@ -69,4 +72,4 @@ Resources to draw on and refer to when drafting guidance.
 ## Other resources
 - Azure Notebooks: https://notebooks.azure.com
 - Stack Overflow: https://stackoverflow.com
-- Read the Docs
+- Read the Docs: https://readthedocs.org
