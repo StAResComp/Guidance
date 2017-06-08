@@ -22,6 +22,7 @@ Resources to draw on and refer to when drafting guidance.
 
 - GitHub: https://github.com/
 - GitHub Education: https://education.github.com
+- GitHub Education Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf
 - BitBucket: https://bitbucket.org
 - Konrad Lawson (School of History) on GitHub for ProfHacker/The Chronicle of Higher Education:
   - Getting Started With a GitHub Repository - http://www.chronicle.com/blogs/profhacker/getting-started-with-a-github-repository/47393
